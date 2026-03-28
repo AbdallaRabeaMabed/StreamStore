@@ -1,0 +1,2 @@
+# StreamStore
+kafka project
